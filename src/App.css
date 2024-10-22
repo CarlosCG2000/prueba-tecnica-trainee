@@ -1,0 +1,24 @@
+main {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui;
+}
+
+img {
+    width: 75%;
+    max-width: 800px;
+    height: auto;
+}
+
+/* Si quisieramos ponerlo de forma lateral toda lainfo que a veces tambien lo piden */
+/*
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+    */
