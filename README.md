@@ -13,8 +13,8 @@ Recuperar un hecho aleatorio de gatos y muestra una imagen de un gato con la pri
 Solo la ‘App.jsx’
 
 ## 6 HOOKS (UseState (2), UseEffect (2), CustomHook (2))
-CustomHook (useCatFact())  UseEffect  UseState (fact)
-CustomHook (useCatImage())  UseEffect  UseState (imageUrl)
+CustomHook (useCatFact()) --> UseEffect --> UseState (fact)
+CustomHook (useCatImage()) --> UseEffect --> UseState (imageUrl)
 
 ## LÓGICA
 
