@@ -1,6 +1,6 @@
 # PRUEBA TÉCNICA TRAINEES-JUNIORS
 
-Es una prueba técnica para Juniors y Trainers de React en Live Coding.
+Es una prueba técnica para Juniors y Trainees de React en Live Coding.
 
 APIs:
 - Facts Random: https://catfact.ninja/fact
