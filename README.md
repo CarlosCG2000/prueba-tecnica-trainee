@@ -14,6 +14,7 @@ Solo la ‘App.jsx’
 
 ## 6 HOOKS (UseState (2), UseEffect (2), CustomHook (2))
 CustomHook (useCatFact()) --> UseEffect --> UseState (fact)
+
 CustomHook (useCatImage()) --> UseEffect --> UseState (imageUrl)
 
 ## LÓGICA
