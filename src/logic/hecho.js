@@ -1,5 +1,5 @@
 
-import { CAT_ENDPOINT_RANDOM_FACT } from '../constants.js' // importamos la url de la API
+import { CAT_ENDPOINT_RANDOM_FACT } from '../../constants.js' // importamos la url de la API
 
 export const fetchRandomFact = async () => { // función que hace la petición fetch
     try {

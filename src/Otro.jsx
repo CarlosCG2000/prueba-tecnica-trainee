@@ -1,4 +1,4 @@
-import { useCatImage } from "../customHooks/useCatImage"
+import { useCatImage } from "./customHooks/useCatImage"
 
 export function Otro() {
   const { imageUrl } = useCatImage({ fact: 'cat' })

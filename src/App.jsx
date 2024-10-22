@@ -1,6 +1,6 @@
 import '../src/App.css'
-import { useCatImage } from "../customHooks/useCatImage.js"
-import { useCatFact } from "../customHooks/useCatFact.js"
+import { useCatImage } from "./customHooks/useCatImage.js"
+import { useCatFact } from "./customHooks/useCatFact.js"
 import { Otro } from './Otro.jsx'
 
 export function App() {

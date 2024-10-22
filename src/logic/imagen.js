@@ -1,5 +1,5 @@
 
-import { CAT_ENDPOINT_IMAGE_URL } from '../constants.js' // importamos la url de la API
+import { CAT_ENDPOINT_IMAGE_URL } from '../../constants.js' // importamos la url de la API
 
 export const fetchImagen = async (threeFirstWords) => {
     try {
