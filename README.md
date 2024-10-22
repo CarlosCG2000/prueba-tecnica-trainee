@@ -101,7 +101,7 @@ No vas a poder ver si la imagen es la correcta, pero si se ha renderizado un tex
 
 ### ESQUEMA 
 <div align="center">
-  <img src="./public/esquema.png" alt="Esquema del proyecto" width="500"/>
+  <img src="./public/esquema.png" alt="Esquema del proyecto" width="600"/>
 </div>
 
 ### INTERFAZ 
