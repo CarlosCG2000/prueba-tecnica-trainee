@@ -9,6 +9,16 @@ APIs:
 Descripción:
 Recuperar un hecho aleatorio de gatos y muestra una imagen de un gato con la primera palabra del hecho.
 
+### ESQUEMA 
+<div align="center">
+  <img src="./public/esquema.png" alt="Esquema del proyecto" width="600"/>
+</div>
+
+### INTERFAZ 
+<div align="center">
+  <img src="./public/4-prueba-trainee.png" alt="Esquema del proyecto" width="800"/>
+</div>
+
 ## 1 COMPONENTES
 Solo la ‘App.jsx’
 
@@ -99,13 +109,3 @@ No se te ocurra decir hacer más features. Lo que tendríamos que hacer es handl
 
 Para el testing, habría que instalar: npm init playwright@latest
 No vas a poder ver si la imagen es la correcta, pero si se ha renderizado un texto una imagen y ya es algo.
-
-### ESQUEMA 
-<div align="center">
-  <img src="./public/esquema.png" alt="Esquema del proyecto" width="600"/>
-</div>
-
-### INTERFAZ 
-<div align="center">
-  <img src="./public/4-prueba-trainee.png" alt="Esquema del proyecto" width="800"/>
-</div>
